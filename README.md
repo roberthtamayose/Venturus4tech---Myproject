@@ -1,2 +1,2 @@
 # Venturus4tech---Myproject
-Curso de react e PWA
+Curso de react, node.js, firebase e PWA
